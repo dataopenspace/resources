@@ -1,0 +1,40 @@
+Updates on classification team projects
+Mailing list signup to get notified: tinyletter.com/dataopenspace
+Guest Speaker - Visualization and Mapping
+
+Data visualization links and resources:
+
+The goals of visualization - - discussion
+-inform
+-display results
+-present data
+-exploratory data analysis
+
+https://eagereyes.org/criticism/changing-goals-data-visualization
+http://www.tableau.com/blog/stephen-few-data-visualization
+http://www.amazon.com/The-Visual-Display-Quantitative-Information/dp/0961392142
+
+
+Infographic vs Viz
+https://eagereyes.org/blog/2010/the-difference-between-infographics-and-visualization
+
+Grammar of Graphics
+http://www.amazon.com/The-Grammar-Graphics-Statistics-Computing/dp/0387245448
+-describes the components of graphics
+
+
+When Viz goes wrong
+http://viz.wtf/
+
+
+Histograms – univariate data
+scatter plot -bivariate data
+
+
+Maps--
+cartodb
+leafletjs
+https://github.com/MicheleTobias/RCode/blob/master/LeafletR/Code_EarthquakeExample.R
+
+ggplot - - 
+https://github.com/lmguzman/ggplotVslattice/blob/master/Lesson1.Rmd
